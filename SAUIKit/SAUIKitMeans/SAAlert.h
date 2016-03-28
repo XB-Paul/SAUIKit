@@ -8,10 +8,12 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
+#import "SANetworkAccessoryProtocol.h"
+
 /**
  *  弹出视图的管理对象
  */
-@interface SAAlertManager : NSObject
+@interface SAAlertManager : NSObject<SANetworkAccessoryProtocol>
 
 /**
  *  单例出一个对弹出视图的管理对象

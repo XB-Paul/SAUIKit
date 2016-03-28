@@ -46,6 +46,7 @@
 		1961A64B1CA9070C001C1B96 /* SAAlert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SAAlert.m; sourceTree = "<group>"; };
 		1961A64C1CA9070C001C1B96 /* SAProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SAProgressHUD.h; sourceTree = "<group>"; };
 		1961A64D1CA9070C001C1B96 /* SAProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SAProgressHUD.m; sourceTree = "<group>"; };
+		1961A6551CA90AA1001C1B96 /* SANetworkAccessoryProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SANetworkAccessoryProtocol.h; sourceTree = "<group>"; };
 		7B053E0A249053F518016174 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		B919AB108A64708F5C6F6070 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -127,6 +128,7 @@
 			children = (
 				1961A6411CA9070C001C1B96 /* CALayer+SAExtend.h */,
 				1961A6421CA9070C001C1B96 /* CALayer+SAExtend.m */,
+				1961A6551CA90AA1001C1B96 /* SANetworkAccessoryProtocol.h */,
 				1961A6431CA9070C001C1B96 /* UIColor+SAExtend.h */,
 				1961A6441CA9070C001C1B96 /* UIColor+SAExtend.m */,
 				1961A6451CA9070C001C1B96 /* UIView+SAExtend.h */,
